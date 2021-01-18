@@ -1,0 +1,41 @@
+.header {
+  padding: 10px;
+  text-align: center;
+  background: url(https://astronomy.com/-/media/Images/Magazine%20Articles/2020/07/ASYBD0720_03.jpg?mw=600);
+  background-size: cover;
+  color: yellow;
+  font-size: 30px;
+  font-family:font-family: 'Pathway Gothic One', sans-serif;
+
+}
+body{
+	 background: url(https://images.unsplash.com/photo-1520034475321-cbe63696469a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fG5pZ2h0JTIwc3RhcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80);
+
+}
+
+.charater{
+
+}
+
+h3{
+	color: yellow
+}
+
+div.bio{
+	width: 80%;
+	background:url(https://images.unsplash.com/photo-1520034475321-cbe63696469a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fG5pZ2h0JTIwc3RhcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	color: yellow;
+	
+}
+
+div.info{
+  text-align: center;
+  padding: 10px 20px;
+}
+
+h4{
+font-family:font-family: 'Pathway Gothic One', sans-serif;
+ font-size: 20px;
+
+}
